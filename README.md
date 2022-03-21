@@ -12,7 +12,7 @@ This project requires node.js, inquirer and mysql2 and runs through the terminal
 
 This project requires node.js, inquirer and mysql2 and runs through the terminal.
 
-Here is a video walking through how to use the program:
+Here is a video walking through how to use the program: https://drive.google.com/file/d/1h9uk-lsfh1ld2ZvrmvFaSvfX8pwZqUeM/view
 
 ## Contributing
 
