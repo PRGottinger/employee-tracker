@@ -147,14 +147,13 @@ const addEmployee = (roleChoices) => {
     });
 };
 
-const updateEmployee = () => {
-    inquirer
-      .prompt([
-        {
-          type: "input",
-          name: "updateEmployee",
-          message: "What is the name of the employee you'd like to update?",
-        },
-
+// const updateEmployee = () => {
+//     inquirer
+//       .prompt([
+//         {
+//           type: "input",
+//           name: "updateEmployee",
+//           message: "What is the name of the employee you'd like to update?",
+//         },
 
 startMenu();
